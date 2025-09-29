@@ -14,6 +14,17 @@ R packages:
       - trinhdhk/sub.dongle
       - oucru-biostats/C306
 
+## Main analysis 
+
+All code are in report.qmd
+
+## Data availability
+
+Dataset required to run the analysis is not publicly available due to data sharing policy. Please see data sharing statement in the main maunscript for data access.
+
+## Main manuscripts
+
+To be updated
 
 ## Contact
 
