@@ -5,7 +5,9 @@ Analysis code for LAST ACT trial.
 ## Prerequisites
 
 R (version >= 4.0.0)
-Quarto
+
+Quarto (version >= 0.9.0)
+
 R packages:
 
     - CRAN: tidyverse, survival, survminer, ggsurvfit, ggplot2, knitr, kableExtra, rmarkdown, flextable, gtsummary, foresploter, renv
